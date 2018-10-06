@@ -1,0 +1,10 @@
+c:\users\samsung\source\repos\HTML_Editor\bin\Debug\HTML_Editor.exe.config
+c:\users\samsung\source\repos\HTML_Editor\bin\Debug\HTML_Editor.exe
+c:\users\samsung\source\repos\HTML_Editor\obj\Debug\HTML_Editor.csprojAssemblyReference.cache
+c:\users\samsung\source\repos\HTML_Editor\obj\Debug\HTML_Editor.Form1.resources
+c:\users\samsung\source\repos\HTML_Editor\obj\Debug\HTML_Editor.Properties.Resources.resources
+c:\users\samsung\source\repos\HTML_Editor\obj\Debug\HTML_Editor.csproj.GenerateResource.cache
+c:\users\samsung\source\repos\HTML_Editor\obj\Debug\HTML_Editor.csproj.CoreCompileInputs.cache
+c:\users\samsung\source\repos\HTML_Editor\obj\Debug\HTML_Editor.exe
+c:\users\samsung\source\repos\HTML_Editor\obj\Debug\HTML_Editor.pdb
+c:\users\samsung\source\repos\HTML_Editor\bin\Debug\HTML_Editor.pdb
